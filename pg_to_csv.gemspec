@@ -10,7 +10,7 @@ Gem::Specification.new do |gem|
   gem.email         = ["solomon.kahn@gmail.com"]
   gem.description   = "Turn a postgres query result into a csv"
   gem.summary       = "Easily turn a postgres query result into a csv"
-  gem.homepage      = ""
+  gem.homepage      = "http://www.github.com/Solomon/pg_to_csv"
 
   gem.files         = `git ls-files`.split($/)
   gem.executables   = gem.files.grep(%r{^bin/}).map{ |f| File.basename(f) }
