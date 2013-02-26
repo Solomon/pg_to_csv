@@ -18,7 +18,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+After you get a postgres query result, just call the following command
+with the csv name to get a csv.
+
+    PgToCsv.to_csv(result, name)
 
 ## Contributing
 
