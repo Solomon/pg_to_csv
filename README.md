@@ -1,6 +1,7 @@
 # PgToCsv
 
-TODO: Write a gem description
+Turn a postgres query result into a csv, so you can send it to people
+who like csvs.
 
 ## Installation
 
